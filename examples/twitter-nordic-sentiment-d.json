@@ -24,6 +24,11 @@
       "format": "python",
       "location": "???",
       "type": "code"
+    },
+    {
+      "format": "png",
+      "location": "???",
+      "type": "data"
     }
   ],
   "tags": [

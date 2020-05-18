@@ -9,7 +9,8 @@ A Dataset represents a collection of data. This could be a collection of tweets 
 from news papers, historical documents etc. A Dataset can be based on another Dataset where som processing 
 has occurred e.g. filtering, stemming etc. The Dataset will the reference the Dataset it is based on as 
 well as the code / link to code and a description of how to reproduce the Dataset. For computational heavy
-derived Datasets the processed Dataset can be included a well.
+derived Datasets the processed Dataset can be included a well (both the data and code should then be included as 
+individual distributions of the Dataset (see the examples))
 
 ### Catalog
 A Catalog describes a set a data often grouped together under a specific topic and with a specific purpose
