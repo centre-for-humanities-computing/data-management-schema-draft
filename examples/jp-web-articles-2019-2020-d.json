@@ -1,0 +1,37 @@
+{
+  "id": "politiken-web-articles-2019-2020",
+  "title": "Articles collected from htts://politken.dk leading up to and during the Covid-19 epidemic",
+  "description": "All articles in the period scraped using https://politiken.dk/search with permission from Politiken.",
+
+  "issued": "2020-05-18T12:40:00",
+  "updated": "2020-05-18T12:40:00",
+
+  "size": {
+    "unit": "entries",
+    "value": 16097
+  },
+  "accessibility": {
+    "access": "public",
+    "A-LOT-OF-FIELD-ABOUT-RISK-GDPR-LICENSE-ETC": "DANGER-DANGER"
+  },
+  "timespan": [
+    {
+      "start": "2019-10-01T00:00:00",
+      "end": "2020-04-03:T00:00:00"
+    }
+  ],
+  "distribution": [
+    {
+      "format": "ndjson",
+      "location": "chcaa-worker01.uni.au.dk/data-corona/politiken",
+      "type": "data"
+    }
+  ],
+  "tags": [
+    "Twitter",
+    "Nordic",
+    "DK",
+    "NO",
+    "SE"
+  ]
+}

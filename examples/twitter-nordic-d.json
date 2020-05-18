@@ -1,0 +1,37 @@
+{
+  "id": "twitter-nordic",
+  "title": "Nordic Tweets (DK, NO, SE) Based on Common Nordic Words",
+  "description": "A collection of tweets based on the 100 most common nordic words in DK, NO, SE where words common in other languages as well has been filtered out",
+
+  "issued": "2020-05-18T12:40:00",
+  "updated": "2020-05-18T12:40:00",
+
+  "size": {
+    "unit": "entries",
+    "value": 3000000
+  },
+  "accessibility": {
+    "access": "public",
+    "A-LOT-OF-FIELD-ABOUT-RISK-GDPR-LICENSE-ETC": "DANGER-DANGER"
+  },
+  "timespan": [
+    {
+      "start": "2020-04-14T15:17:00",
+      "end": null
+    }
+  ],
+  "distribution": [
+    {
+      "format": "tsv",
+      "location": "grundtvig-chcaa.au.dk/data/nordic-tweets",
+      "type": "data"
+    }
+  ],
+  "tags": [
+    "Twitter",
+    "Nordic",
+    "DK",
+    "NO",
+    "SE"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "covid-19",
+  "description": "Covid-19 data collected/produced during the Covid-19 epidemic",
+  "datasets": [
+    "jp-web-articles-2019-2020",
+    "twitter-nordic",
+    "twitter-nordic-sentiment"
+  ],
+  "tags": [
+    "Covid-19",
+    "Epidemic",
+    "Crisis"
+  ]
+}
